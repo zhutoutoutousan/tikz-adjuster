@@ -1,0 +1,4 @@
+pyqt5==5.15.9
+Pillow==10.1.0
+pyinstaller==6.2.0
+
